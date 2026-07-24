@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+<title id="title">AI-assisted breeding workflow diagram</title>
+<desc id="desc">Four-stage workflow from synthetic marker input to trait prediction, validation, and selection support.</desc>
+<defs>
+<linearGradient id="heroGradient" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#2A0B45"/>
+<stop offset="60%" stop-color="#6A1B9A"/>
+<stop offset="100%" stop-color="#1B5E20"/>
+</linearGradient>
+<linearGradient id="softPurple" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#6A1B9A"/>
+<stop offset="100%" stop-color="#1E88E5"/>
+</linearGradient>
+<filter id="softShadow" x="-10%" y="-10%" width="120%" height="130%">
+<feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#2A0B45" flood-opacity="0.14"/>
+</filter>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1100" height="330" rx="28" fill="#FDFCFF"/>
+<text x="50.0" y="55.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="500" fill="#221B38" text-anchor="start">AI-assisted breeding workflow</text>
+<text x="50.0" y="84.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#6A6177" text-anchor="start">A reproducible pipeline from marker-style data to transparent selection decisions</text>
+<rect x="54.0" y="130.0" width="220.0" height="128.0" rx="22" fill="#FFFFFF" stroke="#E2D8EA"/>
+<circle cx="88" cy="165" r="18" fill="#F2E7F8" stroke="#D7B8E5"/>
+<text x="88.0" y="171.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#6A1B9A" text-anchor="middle">1</text>
+<text x="118.0" y="170.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#221B38" text-anchor="start">Marker inputs</text>
+<text x="78.0" y="208.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start">Synthetic marker matrix for bre</text>
+<text x="78.0" y="229.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start">eding lines</text>
+<path d="M 280 194 L 316 194" stroke="#6A1B9A" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="314.0" y="130.0" width="220.0" height="128.0" rx="22" fill="#FFFFFF" stroke="#E2D8EA"/>
+<circle cx="348" cy="165" r="18" fill="#F2E7F8" stroke="#D7B8E5"/>
+<text x="348.0" y="171.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#6A1B9A" text-anchor="middle">2</text>
+<text x="378.0" y="170.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#221B38" text-anchor="start">Trait prediction</text>
+<text x="338.0" y="208.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start">Ridge models for yield, disease</text>
+<text x="338.0" y="229.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start">, maturity, vigor</text>
+<path d="M 540 194 L 576 194" stroke="#6A1B9A" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="574.0" y="130.0" width="220.0" height="128.0" rx="22" fill="#FFFFFF" stroke="#E2D8EA"/>
+<circle cx="608" cy="165" r="18" fill="#F2E7F8" stroke="#D7B8E5"/>
+<text x="608.0" y="171.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#6A1B9A" text-anchor="middle">3</text>
+<text x="638.0" y="170.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#221B38" text-anchor="start">Validation</text>
+<text x="598.0" y="208.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start">Five-fold genotype-level cross-</text>
+<text x="598.0" y="229.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start">validation</text>
+<path d="M 800 194 L 836 194" stroke="#6A1B9A" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="834.0" y="130.0" width="220.0" height="128.0" rx="22" fill="#FFFFFF" stroke="#E2D8EA"/>
+<circle cx="868" cy="165" r="18" fill="#F2E7F8" stroke="#D7B8E5"/>
+<text x="868.0" y="171.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#6A1B9A" text-anchor="middle">4</text>
+<text x="898.0" y="170.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#221B38" text-anchor="start">Selection support</text>
+<text x="858.0" y="208.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start">Multi-trait index and candidate</text>
+<text x="858.0" y="229.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A6177" text-anchor="start"> ranking</text>
+</svg>
