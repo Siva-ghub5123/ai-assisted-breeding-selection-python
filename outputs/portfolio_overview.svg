@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="560" viewBox="0 0 1180 560" role="img" aria-labelledby="title desc">
+<title id="title">AI-assisted breeding portfolio overview</title>
+<desc id="desc">Synthetic breeding workflow summary with cross-validation metrics, marker effects, candidate ranking, and workflow stages.</desc>
+<defs>
+<linearGradient id="heroGradient" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#2A0B45"/>
+<stop offset="60%" stop-color="#6A1B9A"/>
+<stop offset="100%" stop-color="#1B5E20"/>
+</linearGradient>
+<linearGradient id="softPurple" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#6A1B9A"/>
+<stop offset="100%" stop-color="#1E88E5"/>
+</linearGradient>
+<filter id="softShadow" x="-10%" y="-10%" width="120%" height="130%">
+<feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#2A0B45" flood-opacity="0.14"/>
+</filter>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1180" height="560" rx="28" fill="#FDFCFF"/>
+<rect x="28" y="28" width="1124" height="160" rx="28" fill="url(#heroGradient)" filter="url(#softShadow)"/>
+<text x="62.0" y="84.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="500" fill="#FFFFFF" text-anchor="start">AI-assisted breeding selection</text>
+<text x="62.0" y="126.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#F1E8F8" text-anchor="start">Synthetic marker data → prediction models → multi-trait selection index</text>
+<text x="62.0" y="162.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#E6D8F0" text-anchor="start">Portfolio demonstration for genomic-prediction and crop-improvement roles</text>
+<rect x="694.0" y="70.0" width="122.0" height="88.0" rx="18" fill="#FFFFFF" stroke="none"/>
+<text x="710.0" y="100.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6A6177" text-anchor="start">Yield R²</text>
+<text x="710.0" y="130.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" fill="#6A1B9A" text-anchor="start">0.6872</text>
+<text x="710.0" y="150.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6A6177" text-anchor="start">corr 0.8297</text>
+<rect x="836.0" y="70.0" width="122.0" height="88.0" rx="18" fill="#FFFFFF" stroke="none"/>
+<text x="852.0" y="100.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6A6177" text-anchor="start">Disease R²</text>
+<text x="852.0" y="130.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" fill="#6A1B9A" text-anchor="start">0.4973</text>
+<text x="852.0" y="150.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6A6177" text-anchor="start">corr 0.7116</text>
+<rect x="978.0" y="70.0" width="122.0" height="88.0" rx="18" fill="#FFFFFF" stroke="none"/>
+<text x="994.0" y="100.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6A6177" text-anchor="start">Vigor R²</text>
+<text x="994.0" y="130.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" fill="#6A1B9A" text-anchor="start">0.6176</text>
+<text x="994.0" y="150.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6A6177" text-anchor="start">corr 0.7876</text>
+<rect x="36.0" y="220.0" width="525.0" height="284.0" rx="24" fill="#FFFFFF" stroke="#E2D8EA"/>
+<text x="66.0" y="264.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#221B38" text-anchor="start">Top synthetic marker effects</text>
+<text x="66.0" y="291.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#6A6177" text-anchor="start">Largest absolute standardized effects for yield</text>
+<text x="70.0" y="348.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#221B38" text-anchor="start">M003</text>
+<rect x="238" y="330" width="245" height="18" rx="9" fill="#F0EBF5"/>
+<rect x="238" y="330" width="245.0" height="18" rx="9" fill="#6A1B9A" opacity="0.88"/>
+<text x="500.0" y="345.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.596</text>
+<text x="70.0" y="382.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#221B38" text-anchor="start">M015</text>
+<rect x="238" y="364" width="245" height="18" rx="9" fill="#F0EBF5"/>
+<rect x="238" y="364" width="189.4" height="18" rx="9" fill="#6A1B9A" opacity="0.88"/>
+<text x="500.0" y="379.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.460</text>
+<text x="70.0" y="416.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#221B38" text-anchor="start">M052</text>
+<rect x="238" y="398" width="245" height="18" rx="9" fill="#F0EBF5"/>
+<rect x="238" y="398" width="153.9" height="18" rx="9" fill="#6A1B9A" opacity="0.88"/>
+<text x="500.0" y="413.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.374</text>
+<text x="70.0" y="450.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#221B38" text-anchor="start">M010</text>
+<rect x="238" y="432" width="245" height="18" rx="9" fill="#F0EBF5"/>
+<rect x="238" y="432" width="145.0" height="18" rx="9" fill="#6A1B9A" opacity="0.88"/>
+<text x="500.0" y="447.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.353</text>
+<text x="70.0" y="484.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#221B38" text-anchor="start">M026</text>
+<rect x="238" y="466" width="245" height="18" rx="9" fill="#F0EBF5"/>
+<rect x="238" y="466" width="143.5" height="18" rx="9" fill="#6A1B9A" opacity="0.88"/>
+<text x="500.0" y="481.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.349</text>
+<rect x="610.0" y="220.0" width="532.0" height="284.0" rx="24" fill="#FFFFFF" stroke="#E2D8EA"/>
+<text x="640.0" y="264.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#221B38" text-anchor="start">Selection index preview</text>
+<text x="640.0" y="291.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#6A6177" text-anchor="start">Top genotypes ranked by prediction-supported index</text>
+<circle cx="662" cy="336" r="16" fill="#F2E7F8" stroke="#D6B8E5"/>
+<text x="662.0" y="342.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6A1B9A" text-anchor="middle">1</text>
+<text x="696.0" y="341.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#221B38" text-anchor="start">AIBREED_G062</text>
+<rect x="850" y="326" width="220" height="20" rx="10" fill="#F0EBF5"/>
+<rect x="850" y="326" width="184.1" height="20" rx="10" fill="url(#softPurple)"/>
+<text x="1084.0" y="342.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.837</text>
+<circle cx="662" cy="378" r="16" fill="#F2E7F8" stroke="#D6B8E5"/>
+<text x="662.0" y="384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6A1B9A" text-anchor="middle">2</text>
+<text x="696.0" y="383.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#221B38" text-anchor="start">AIBREED_G003</text>
+<rect x="850" y="368" width="220" height="20" rx="10" fill="#F0EBF5"/>
+<rect x="850" y="368" width="182.3" height="20" rx="10" fill="url(#softPurple)"/>
+<text x="1084.0" y="384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.829</text>
+<circle cx="662" cy="420" r="16" fill="#F2E7F8" stroke="#D6B8E5"/>
+<text x="662.0" y="426.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6A1B9A" text-anchor="middle">3</text>
+<text x="696.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#221B38" text-anchor="start">AIBREED_G017</text>
+<rect x="850" y="410" width="220" height="20" rx="10" fill="#F0EBF5"/>
+<rect x="850" y="410" width="165.4" height="20" rx="10" fill="url(#softPurple)"/>
+<text x="1084.0" y="426.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.752</text>
+<circle cx="662" cy="462" r="16" fill="#F2E7F8" stroke="#D6B8E5"/>
+<text x="662.0" y="468.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6A1B9A" text-anchor="middle">4</text>
+<text x="696.0" y="467.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#221B38" text-anchor="start">AIBREED_G038</text>
+<rect x="850" y="452" width="220" height="20" rx="10" fill="#F0EBF5"/>
+<rect x="850" y="452" width="164.6" height="20" rx="10" fill="url(#softPurple)"/>
+<text x="1084.0" y="468.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#6A6177" text-anchor="start">0.748</text>
+</svg>
