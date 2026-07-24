@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="460.0" y="35" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">Top AI-Assisted Selection Candidates</text>
+<text x="240" y="89" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G062</text>
+<rect x="250" y="70" width="600.0" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="858.0" y="89" font-family="Arial" font-size="13">0.837</text>
+<text x="240" y="127" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G003</text>
+<rect x="250" y="108" width="594.3" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="852.2631767658659" y="127" font-family="Arial" font-size="13">0.829</text>
+<text x="240" y="165" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G017</text>
+<rect x="250" y="146" width="539.2" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="797.1896737181786" y="165" font-family="Arial" font-size="13">0.752</text>
+<text x="240" y="203" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G038</text>
+<rect x="250" y="184" width="536.6" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="794.6081032628182" y="203" font-family="Arial" font-size="13">0.748</text>
+<text x="240" y="241" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G008</text>
+<rect x="250" y="222" width="531.6" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="789.5883829329508" y="241" font-family="Arial" font-size="13">0.741</text>
+<text x="240" y="279" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G073</text>
+<rect x="250" y="260" width="520.8" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="778.8318393689494" y="279" font-family="Arial" font-size="13">0.726</text>
+<text x="240" y="317" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G021</text>
+<rect x="250" y="298" width="517.3" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="775.3180351380423" y="317" font-family="Arial" font-size="13">0.721</text>
+<text x="240" y="355" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G065</text>
+<rect x="250" y="336" width="504.8" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="762.8404446038006" y="355" font-family="Arial" font-size="13">0.704</text>
+<text x="240" y="393" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G051</text>
+<rect x="250" y="374" width="499.7" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="757.7490139835065" y="393" font-family="Arial" font-size="13">0.697</text>
+<text x="240" y="431" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G088</text>
+<rect x="250" y="412" width="493.9" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="751.8687701685192" y="431" font-family="Arial" font-size="13">0.689</text>
+<text x="240" y="469" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G091</text>
+<rect x="250" y="450" width="480.8" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="738.8174973108642" y="469" font-family="Arial" font-size="13">0.670</text>
+<text x="240" y="507" text-anchor="end" font-family="Arial" font-size="13">AIBREED_G007</text>
+<rect x="250" y="488" width="476.0" height="26" fill="#1B5E20" opacity="0.85"/>
+<text x="734.0129078522768" y="507" font-family="Arial" font-size="13">0.664</text>
+<text x="460" y="495" text-anchor="middle" font-family="Arial" font-size="12">Synthetic marker data demonstration</text>
+</svg>
