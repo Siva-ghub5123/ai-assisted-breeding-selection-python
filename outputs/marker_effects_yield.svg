@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="460.0" y="35" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">Top Synthetic Marker Effects for Yield</text>
+<text x="240" y="89" text-anchor="end" font-family="Arial" font-size="13">M003</text>
+<rect x="250" y="70" width="600.0" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="858.0" y="89" font-family="Arial" font-size="13">0.596</text>
+<text x="240" y="127" text-anchor="end" font-family="Arial" font-size="13">M015</text>
+<rect x="250" y="108" width="463.8" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="721.7774120965846" y="127" font-family="Arial" font-size="13">0.460</text>
+<text x="240" y="165" text-anchor="end" font-family="Arial" font-size="13">M052</text>
+<rect x="250" y="146" width="377.0" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="634.9923095006213" y="165" font-family="Arial" font-size="13">0.374</text>
+<text x="240" y="203" text-anchor="end" font-family="Arial" font-size="13">M010</text>
+<rect x="250" y="184" width="355.2" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="613.180172616449" y="203" font-family="Arial" font-size="13">0.353</text>
+<text x="240" y="241" text-anchor="end" font-family="Arial" font-size="13">M026</text>
+<rect x="250" y="222" width="351.4" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="609.442388420593" y="241" font-family="Arial" font-size="13">0.349</text>
+<text x="240" y="279" text-anchor="end" font-family="Arial" font-size="13">M066</text>
+<rect x="250" y="260" width="327.0" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="584.9704805722538" y="279" font-family="Arial" font-size="13">0.325</text>
+<text x="240" y="317" text-anchor="end" font-family="Arial" font-size="13">M039</text>
+<rect x="250" y="298" width="278.5" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="536.5304093763643" y="317" font-family="Arial" font-size="13">0.276</text>
+<text x="240" y="355" text-anchor="end" font-family="Arial" font-size="13">M072</text>
+<rect x="250" y="336" width="141.5" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="399.50183027168623" y="355" font-family="Arial" font-size="13">0.140</text>
+<text x="240" y="393" text-anchor="end" font-family="Arial" font-size="13">M062</text>
+<rect x="250" y="374" width="133.6" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="391.6232662793431" y="393" font-family="Arial" font-size="13">0.133</text>
+<text x="240" y="431" text-anchor="end" font-family="Arial" font-size="13">M057</text>
+<rect x="250" y="412" width="116.2" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="374.24408100211576" y="431" font-family="Arial" font-size="13">0.115</text>
+<text x="240" y="469" text-anchor="end" font-family="Arial" font-size="13">M029</text>
+<rect x="250" y="450" width="108.5" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="366.45619101991474" y="469" font-family="Arial" font-size="13">0.108</text>
+<text x="240" y="507" text-anchor="end" font-family="Arial" font-size="13">M017</text>
+<rect x="250" y="488" width="107.9" height="26" fill="#6A1B9A" opacity="0.85"/>
+<text x="365.8919971790308" y="507" font-family="Arial" font-size="13">0.107</text>
+<text x="460" y="495" text-anchor="middle" font-family="Arial" font-size="12">Synthetic marker data demonstration</text>
+</svg>
