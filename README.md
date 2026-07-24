@@ -35,13 +35,16 @@ ai-assisted-breeding-selection-python/
 │   ├── marker_effects_yield.csv
 │   ├── marker_effects_yield.svg
 │   ├── observed_vs_predicted_yield.svg
+│   ├── portfolio_overview.svg
 │   ├── predicted_breeding_values.csv
 │   ├── selection_index_bar.svg
+│   ├── workflow_diagram.svg
 │   └── top_selection_candidates.csv
 ├── reports/
 │   └── ai_breeding_selection_report.md
 ├── scripts/
-│   └── ai_breeding_selection_workflow.py
+│   ├── ai_breeding_selection_workflow.py
+│   └── make_portfolio_visuals.py
 ├── LICENSE
 └── README.md
 ```
@@ -64,9 +67,27 @@ python scripts/ai_breeding_selection_workflow.py
 
 Only Python and NumPy are required.
 
-## Example outputs
+## Visual portfolio preview
+
+![AI-assisted breeding portfolio overview](outputs/portfolio_overview.svg)
+
+## Model validation
 
 ![Observed vs predicted yield](outputs/observed_vs_predicted_yield.svg)
+
+## Marker-effect interpretation
+
+![Top synthetic marker effects for yield](outputs/marker_effects_yield.svg)
+
+## Selection-index ranking
+
+![Top AI-assisted selection candidates](outputs/selection_index_bar.svg)
+
+## Workflow diagram
+
+![AI-assisted breeding workflow diagram](outputs/workflow_diagram.svg)
+
+These visuals are generated from the synthetic output tables using `scripts/make_portfolio_visuals.py`, so the presentation layer is reproducible rather than manually assembled.
 
 ## Result snapshot
 
